@@ -1,9 +1,9 @@
 # 🍔 Aplikasi Menu Makanan
 
 ## 👨‍💻 Identitas
-- **Nama:** Hasbi Nurwahid Ash Shiddieqy  
-- **NIM:** 1237050092  
-- **Kelas:** PAM-C  
+- **Nama:** Muhammad Zaki Alghifari  
+- **NIM:** 1237050132
+- **Kelas:** A  
 
 ---
 
